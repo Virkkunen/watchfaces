@@ -10,23 +10,15 @@ When packing, the tool will convert all .png files to .bmp format at 32 bit, whi
   
 ## Current faces:
 
-### [Digital Lavender](digital_lavender)
-![Preview](digital_lavender/digital_lavender_packed_packed_animated.gif)
+### DIGITAL
+![Red](digital_red/digital_red_packed_animated.gif) ![Green](digital_green/digital_green_packed_animated.gif) ![Cyan](digital_cyan/digital_cyan_packed_animated.gif) ![Lavender](digital_lavender/digital_lavender_packed_packed_animated.gif)
 
-[.bin file](digital_lavender/digital_lavender_packed_packed.bin) (232 KB)
+[Red](digital_red/digital_red_packed.bin) [Green](digital_green/digital_green_packed.bin) [Cyan](digital_cyan/digital_cyan_packed.bin) [Lavender](digital_lavender/digital_lavender_packed_packed.bin)
 - Bluetooth, Do Not Disturb, Lock and Battery indicators
 - 24 hour format
 - DD.MM format
 - Heart rate indicator
 
-### [Digital Red](digital_red)
-![Preview](digital_red/digital_red_packed_animated.gif)
-
-[.bin file](digital_red/digital_red_packed.bin)  (224 KB)
-- Bluetooth, Do Not Disturb, Lock and Battery indicators
-- 24 hour format
-- DD.MM format
-- Heart rate indicator
 
 
 ## To Do:
