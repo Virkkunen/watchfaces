@@ -18,6 +18,8 @@ When packing, the tool will convert all .png files to .bmp format at 32 bit, whi
 - 24 hour format
 - DD.MM format
 - Heart rate indicator
+ 
+ Based on [sml_boor](https://amazfitwatchfaces.com/search/mi-band-4/author/sml_boor)'s [«Digital Old Red»](https://amazfitwatchfaces.com/mi-band-4/view/4906)
 
 
 
