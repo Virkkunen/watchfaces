@@ -10,7 +10,7 @@ When packing, the tool will convert all .png files to .bmp format at 32 bit, whi
   
 ## Current faces:
 
-### DIGITAL
+### Digital
 ![Red](digital_red/digital_red_packed_animated.gif) ![Green](digital_green/digital_green_packed_animated.gif) ![Cyan](digital_cyan/digital_cyan_packed_animated.gif) ![Lavender](digital_lavender/digital_lavender_packed_packed_animated.gif)
 
 [Red](digital_red/digital_red_packed.bin) [Green](digital_green/digital_green_packed.bin) [Cyan](digital_cyan/digital_cyan_packed.bin) [Lavender](digital_lavender/digital_lavender_packed_packed.bin)
