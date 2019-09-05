@@ -6,27 +6,27 @@ Also including a folder for the [packing/unpacking tool](RawImageMode) and a [PN
 The final .bin file should be at maximum 300 KB, the lower the value, the better.
 
 When packing, the tool will convert all .png files to .bmp format at 32 bit, which should inflate the file size.
-
-
+  
+  
 ## Current faces:
 
 ### [Digital Lavender](digital_lavender)
 ![Preview](digital_lavender/digital_lavender_packed_packed_animated.gif)
 
 [.bin file](digital_lavender/digital_lavender_packed_packed.bin) (232 KB)
-- Bluetooth, Do Not Disturb & Lock indicators
+- Bluetooth, Do Not Disturb, Lock and Battery indicators
+- 24 hour format
 - DD.MM format
-- Heart rate measurement
-- Battery indicator
+- Heart rate indicator
 
 ### [Digital Red](digital_red)
 ![Preview](digital_red/digital_red_packed_animated.gif)
 
 [.bin file](digital_red/digital_red_packed.bin)  (224 KB)
-- Bluetooth, Do Not Disturb & Lock indicators
+- Bluetooth, Do Not Disturb, Lock and Battery indicators
+- 24 hour format
 - DD.MM format
-- Heart rate measurement
-- Battery indicator
+- Heart rate indicator
 
 
 ## To Do:
