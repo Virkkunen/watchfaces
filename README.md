@@ -24,7 +24,7 @@ When packing, the tool will convert all .png files to .bmp format at 32 bit, whi
 
 
 ## To Do:
-- [ ] Fix animations in latest band firmware
+- [x] Fix animations in latest band firmware
 - [ ] Optimize file sizes
 - [ ] Add more color variants for the Digital face
 - [ ] Find a way to add the day of the week on the Digital face
