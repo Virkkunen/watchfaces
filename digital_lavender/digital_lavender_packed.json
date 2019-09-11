@@ -129,11 +129,11 @@
         "X": 34,
         "Y": 101,
         "ImageIndex": 29,
-        "ImagesCount": 12,
+        "ImagesCount": 6,
         "X3": 0
       },
-      "Speed": 1,
-      "RepeatCount": 5,
+      "Speed": 4,
+      "RepeatCount": 6,
       "x2": 5
     }
   }
