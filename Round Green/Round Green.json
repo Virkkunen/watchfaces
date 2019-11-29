@@ -1,0 +1,225 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 10,
+        "Y": 39,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 66,
+        "Y": 39,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 10,
+        "Y": 127,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 66,
+        "Y": 127,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+      }
+    },
+   },
+  "Activity": {
+    "Steps": {
+      "Number": {
+        "TopLeftX": 10,
+        "TopLeftY": 210,
+        "BottomRightX": 110,
+        "BottomRightY": 30,
+        "Alignment": "TopLeft",
+        "Spacing": 1,
+        "ImageIndex": 31,
+        "ImagesCount": 10
+      }
+    },
+	"Pulse": {
+      "Number": {
+        "TopLeftX": 97,
+        "TopLeftY": 210,
+        "BottomRightX": 110,
+        "BottomRightY": 30,
+        "Alignment": "TopLeft",
+        "Spacing": 1,
+        "ImageIndex": 21,
+        "ImagesCount": 10
+      }
+    }
+  },
+  "Date": {
+    "MonthAndDay": {
+      "Separate": {
+        "Month": {
+          "TopLeftX": 97,
+          "TopLeftY": 10,
+          "BottomRightX": 0,
+          "BottomRightY": 0,
+          "Alignment": "TopLeft",
+          "Spacing": 1,
+          "ImageIndex": 41,
+          "ImagesCount": 10
+        },
+        "Day": {
+          "TopLeftX": 83,
+          "TopLeftY": 10,
+          "BottomRightX": 0,
+          "BottomRightY": 0,
+          "Alignment": "TopLeft",
+          "Spacing": 1,
+          "ImageIndex": 21,
+          "ImagesCount": 10
+        }
+      },
+      "TwoDigitsMonth": true,
+      "TwoDigitsDay": true
+    },
+    "WeekDay": {
+      "X": 65,
+      "Y": 10,
+      "ImageIndex": 80,
+      "ImagesCount": 21
+    }
+  },
+  "StepsProgress": {
+    "Linear": {
+      "StartImageIndex": 51,
+      "Segments": [
+        {
+          "X": 10,
+          "Y": 225
+        },
+        {
+          "X": 10,
+          "Y": 225
+        },
+        {
+          "X": 10,
+          "Y": 225
+        },
+        {
+          "X": 10,
+          "Y": 225
+        },
+        {
+          "X": 10,
+          "Y": 225
+        },
+        {
+          "X": 10,
+          "Y": 225
+        },
+        {
+          "X": 10,
+          "Y": 225
+        },
+        {
+          "X": 10,
+          "Y": 225
+        },
+        {
+          "X": 10,
+          "Y": 225
+        },
+        {
+          "X": 10,
+          "Y": 225
+        }
+      ]
+    }
+  },
+  "Status": {
+    "DoNotDisturb": {
+      "Coordinates": {
+        "X": 38,
+        "Y": 20,
+        "BoxWidth": 0,
+        "Alignment": 0,
+        "Order": 0
+      },
+      "ImageIndexOn": 101
+    },
+    "Lock": {
+      "Coordinates": {
+        "X": 28,
+        "Y": 20,
+        "BoxWidth": 0,
+        "Alignment": 0,
+        "Order": 0
+      },
+      "ImageIndexOn": 102
+    },
+    "Bluetooth": {
+      "Coordinates": {
+        "X": 48,
+        "Y": 20,
+        "BoxWidth": 0,
+        "Alignment": 0,
+        "Order": 0
+      },
+      "ImageIndexOff": 103
+    },
+    "Battery": {
+      "BatteryConfig": {
+        "BoxWidth": 0,
+        "Alignment": 0,
+        "Order": 0
+      },
+      "Text": {
+        "TopLeftX": 10,
+        "TopLeftY": 20,
+        "BottomRightX": 110,
+        "BottomRightY": 220,
+        "Alignment": "TopLeft",
+        "Spacing": 1,
+        "ImageIndex": 61,
+        "ImagesCount": 10
+      },
+      "Icon": {
+        "X": 10,
+        "Y": 10,
+        "ImageIndex": 71,
+        "ImagesCount": 9
+      }
+    }
+  },
+  "AnalogDialFace": {
+    "Seconds": {
+      "OnlyBorder": true,
+      "Color": "0x000000",
+      "Center": {
+        "X": 0,
+        "Y": 0
+      },
+      "Shape": [
+        {
+          "X": 0,
+          "Y": -1
+        },
+        {
+          "X": 1,
+          "Y": 0
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    }
+  }
+}
