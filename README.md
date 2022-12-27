@@ -2,4 +2,4 @@
 ## [Rainbow](Rainbow/)
 ![](Rainbow/preview.png)
 
-# [Mi Band Watchfaces](Mi Band/)
+# [Mi Band Watchfaces](Mi%20Band)
